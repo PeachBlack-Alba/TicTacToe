@@ -7,8 +7,8 @@ A Flutter mini game recreating TicTacToe.
 Welcome to TicTacToe App.
 
 
-[comment]: <> (![Main Screen](assets/images/NAMEOFTHEFILE.png))
-
+![Main Screen](assets/img/image1.png)
+![Main Screen](assets/img/image2.png)
 
 
 > If you found this source code helpful or want to help me in my studies, consider buying me a cup of :coffee:
